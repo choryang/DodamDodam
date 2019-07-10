@@ -1,6 +1,6 @@
 # DodamDodam
 
-Multi-user timer app to help you study, using CM Program: Team Project with Schoolmates
+Multi-user timer app to help you study, using CM Program: Team Project with Schoolmates (2019.06)
 
 # participants
 
