@@ -3,7 +3,7 @@
 Multi-user timer app to help you study, using CM Program: Team Project with Schoolmates (2019.06)
 - [Running Image -Youtube](https://www.youtube.com/playlist?list=PLIQFkNPFMKK2KIjrLJWWWIqrUvgE7Z-T8)
 
-# participants
+# Participants
 
   - me: 임예린( https://github.com/enurinm )
   - 이옥희( https://github.com/choryang )
