@@ -5,8 +5,8 @@ Multi-user timer app to help you study, using CM Program: Team Project with Scho
 
 # Participants
 
-  - me: 임예린( https://github.com/enurinm )
-  - 이옥희( https://github.com/choryang )
+  - 임예린( https://github.com/enurinm )
+  - me:이옥희( https://github.com/choryang )
   - 주지혜( https://github.com/joojh1013 )
 
 # File Description
